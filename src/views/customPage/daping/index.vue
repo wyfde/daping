@@ -1,7 +1,7 @@
 <template>
   <div class="custom-page" style="position: relative;">
     <h1>自定义页面</h1>
-    <p>这是一个自定义的 darkVue 页面。</p>
+    <p>这是一个自定义的 Vue 页面。</p>
     <!-- 修复后的全屏按钮，使用原生 CSS 定位 -->
     <button 
       @click="openFullscreen" 
